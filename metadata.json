@@ -1,0 +1,6 @@
+{
+  "name": "Gazipur To-Let",
+  "description": "House and flat rental app for Gazipur with listings, search, direct call, and posting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
